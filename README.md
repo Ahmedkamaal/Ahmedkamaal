@@ -6,10 +6,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+- 🎓 **Graduate From Ain Shams University**
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development
 
-- 📫 How to reach me **ahmed254kamal@gmail.com**
+- 📫 How to reach me  **ebrahimtarek2002@gmail.com**
 
 
 <br>
